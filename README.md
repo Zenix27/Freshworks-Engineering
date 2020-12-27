@@ -10,7 +10,7 @@ These are the commands to use the code file.
 `agni.create("assignment",23,3600)`\
 `agni.read("utkarsh")`\
 `agni.read("assignment")`\
-`agni.create("sid",812)`\
+`agni.create("utkarsh",812)`\
 `agni.modify("utkarsh",424)`\
 `agni.delete("utkarsh")`
 
